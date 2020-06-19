@@ -1,0 +1,5 @@
+.search-bar-div {
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}

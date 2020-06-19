@@ -1,0 +1,7 @@
+.front-bg {
+    width: 100vw;
+    height: 70vh;
+    object-fit: cover;
+    object-position: top;
+    /* box-shadow: 0 3000px rgba(0, 0, 0, 0.4) inset; */
+}

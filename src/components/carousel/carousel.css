@@ -1,0 +1,30 @@
+.one-div{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.display-5{
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+.list-title {
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin: 3%;
+    padding-left: 4%;
+}
+
+.carousel{
+    height: 50vh;
+}
+
+.carousel-inner{
+    height: 50vh;
+}
+
+/* .carousel-indicators {
+    margin: 0%;
+    bottom: 0px;
+} */
